@@ -1,91 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mariano Bordon CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mariano Bordon
+Product Specialist and Customer Support, Product Manager, and Hobbyist Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mariano@bordon.uy">mariano@bordon.uy</a>
+| <a href="http://bordon.uy">My personal webpage</a>
+| <a href="https://www.linkedin.com/in/mbordonuy/">My Linkedin Profile</a>
 </div>
 
 
-## Currently
+## Work Experience
 
-Standing on the shoulders of giants
+### Current Position
 
-### Specialized in
+Sabre
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`April 2021-Present`
 
+Contributor Product Specialist
 
-### Research interests
+Product Specialist and Product Support for Sabre Airline Solutions: Revenue Integrity, Intelligence Exchange, and Qik.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Previous Position
 
+Sabre
 
-## Education
+`November 2018-March 2021`
 
-`1654-1660`
-__The King's School, Grantham.__
+Associate Product Specialist
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Product Specialist and Product Support for Sabre Airline Solutions: Revenue Integrity and Intelligence Exchange.
 
-- Sizar
+### Specialized In
 
-`1667 - death`
-__Trinity College, Cambridge__
+Customer Support, Product Development, Programming (HTML, CSS, and JS), Bash, SQL, Mongo.
 
-- Fellow
+### Research Interests
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Programming, New Metodologies, Robotics and Sensor Programming
 
 
+## Other Side Projects
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2022`
+Jetson Nano and Sensor Programming ussing rapid prototyping sensors just for fun.
 
 
-## Occupation
+## Digital Stuff I Own
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2022`
+I own and mantain several domain names, some of them as an investment and available for sale.
 
 
+## Footer
 
-<!-- ### Footer
+Last updated: August 2022.
 
-Last updated: May 2013 -->
-
-
+For anything you need or want to kjnow about me, just drop me an <a href="mariano@bordon.uy">email</a>.
