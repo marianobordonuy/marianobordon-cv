@@ -1,3 +1,9 @@
+# Personal Note
+
+This is a fork from a project made by elipapa, this is how I showcahse my CV.
+
+If you want to have the same on your profile, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+
 # markdown-cv
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
